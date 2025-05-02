@@ -1,7 +1,7 @@
 
 ## Purpose
 
-#### Check out our [website](https://hannahmgordon-fronttoback-codewebsite-6jii0p.streamlit.app/) to explore our team's work!
+#### Check out our [website](https://lazypricesreplication.streamlit.app/) to explore our team's work!
 
 #### The data cleaning and text analysis related tasks are performed in the TextualAnalysis.ipynb .
 
